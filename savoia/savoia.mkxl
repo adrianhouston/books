@@ -2783,7 +2783,7 @@
 
         \startnarrow
           {\bf Y: all the cities in the world with an AQI greater than 100}
-
+          \crlf
           {\bf y: Beijing, China}
         \stopnarrow
 
@@ -2800,7 +2800,7 @@
 
         \startnarrow
           {\bf Y: all the cities in the world with an AQI greater than 100}
-
+          \crlf
           {\bf y: Beijing Tot Academy parents}
         \stopnarrow
 

@@ -763,11 +763,11 @@
 
         \startmiddlealignment
           {\bf Punch 1: Most new products will fail in the market.}
-
+          \crlf
           {\em Ouch!}
-
+          \crlf
           {\bf Punch 2: They will fail even if competently executed.}
-
+          \crlf
           {\em Double ouch!}
         \stopmiddlealignment
 

@@ -2401,11 +2401,13 @@
         wider} and \quotation{a few more clicks} into specific quantities, turning that
         fuzzy opinion into a testable hypothesis:
 
-        \startconcept{Fuzzy opinion:} I believe that if we make our \quotation{Subscribe} buttons a
+        \startconcept{Fuzzy opinion:}
+          I believe that if we make our \quotation{Subscribe} buttons a
           little wider, we'll get a few more clicks on them.
         \stopconcept
 
-        \startconcept{Testable hypothesis:} If we make our \quotation{Subscribe} buttons
+        \startconcept{Testable hypothesis:}
+          If we make our \quotation{Subscribe} buttons
           20\textpercent{} wider, we will get at least 10\textpercent{} more
           subscribers.
         \stopconcept
@@ -2416,7 +2418,8 @@
         group B (a 20\textpercent{} wider button), and to compare the clicks
         between the two groups.
 
-        \startconcept{Test results:} Using a sample of 1,000 page views, we conducted an
+        \startconcept{Test results:}
+          Using a sample of 1,000 page views, we conducted an
           A/B test. The results indicate that when we increased the width of the
           \quotation{Subscribe} button by 20\textpercent{} (from 100 to 120 pixels), we
           got 14\textpercent{} more subscribers.
@@ -2621,15 +2624,18 @@
         three-dimensional space. In our case, the unknown three-dimensional XYZ
         space we are exploring and want to map and understand consists of:
 
-        \startconcept{X:} How {\em big} a slice, what percent, of our target market can
+        \startconcept{X:}
+          How {\em big} a slice, what percent, of our target market can
           we capture?
         \stopconcept
 
-        \startconcept{Y:} What {\em
+        \startconcept{Y:}
+          What {\em
           is} our target market?
         \stopconcept
 
-        \startconcept{Z:} {\em How} and exactly {\em to what extent} will the target
+        \startconcept{Z:}
+          {\em How} and exactly {\em to what extent} will the target
           market engage with our product?
         \stopconcept
 
@@ -2652,61 +2658,73 @@
         how they are expressed in XYZ format. And, yes, I know that some of
         these ideas have actually been tried.
 
-        \startconcept{Idea:} An Uber-like service that picks up and delivers laundry
+        \startconcept{Idea:}
+          An Uber-like service that picks up and delivers laundry
         \stopconcept
 
-        \startconcept{Fuzzy MEH:} Most people who use coin laundries dread the
+        \startconcept{Fuzzy MEH:}
+          Most people who use coin laundries dread the
           experience. Many of them would pay a few extra dollars to have their
           laundry picked up, washed, dried, and returned in a reasonable amount of
           time.
         \stopconcept
 
-        \startconcept{XYZ Hypothesis:} At least 10\textpercent{} of coin laundry users
+        \startconcept{XYZ Hypothesis:}
+          At least 10\textpercent{} of coin laundry users
           will pay \textdollar{}5 extra to
           have their laundry picked up and returned within twenty-four hours.
         \stopconcept
 
         \middlealigned{\blackrule}
 
-        \startconcept{Idea:} An ice cube--based air cooler for cars that don't have air
+        \startconcept{Idea:}
+          An ice cube--based air cooler for cars that don't have air
           conditioning
         \stopconcept
 
-        \startconcept{Fuzzy MEH:} Drivers short on cash with broken or no air
+        \startconcept{Fuzzy MEH:}
+          Drivers short on cash with broken or no air
           conditioning in their cars would buy a cheap ice cube--powered gizmo to
           help them cool their car.
         \stopconcept
 
-        \startconcept{XYZ Hypothesis:} At least 5\textpercent{} of people without air
+        \startconcept{XYZ Hypothesis:}
+          At least 5\textpercent{} of people without air
           conditioning will buy a \textdollar{}20 air-cooling gizmo when the average
           temperature gets over 100 degrees.
         \stopconcept
 
         \middlealigned{\blackrule}
 
-        \startconcept{Idea:} Beer for dogs
+        \startconcept{Idea:}
+          Beer for dogs
         \stopconcept
 
-        \startconcept{Fuzzy MEH:} Many dog owners don't like to drink alone; quite a few
+        \startconcept{Fuzzy MEH:}
+          Many dog owners don't like to drink alone; quite a few
           of them would buy a dog-safe beer, so their best friend can drink with
           them.
         \stopconcept
 
-        \startconcept{XYZ Hypothesis:} At least 15\textpercent{} of dog owners will add
+        \startconcept{XYZ Hypothesis:}
+          At least 15\textpercent{} of dog owners will add
           a six-pack of beer for dogs for \textdollar{}4 when they buy dog food.
         \stopconcept
 
         \middlealigned{\blackrule}
 
-        \startconcept{Idea:} {\em Super Squirrel} Collectors' Edition book
+        \startconcept{Idea:}
+          {\em Super Squirrel} Collectors' Edition book
         \stopconcept
 
-        \startconcept{Fuzzy MEH:} Fans of the {\em Super Squirrel} comic book series will
+        \startconcept{Fuzzy MEH:}
+          Fans of the {\em Super Squirrel} comic book series will
           go nuts (apologies) for a limited-edition, high-quality collection
           featuring their favorite rodent superhero.
         \stopconcept
 
-        \startconcept{XYZ Hypothesis:} At least 50\textpercent{} of the 220,000
+        \startconcept{XYZ Hypothesis:}
+          At least 50\textpercent{} of the 220,000
           subscribers to the {\em Super Squirrel} comic will buy the \textdollar{}100
           Collectors' Edition.
         \stopconcept
